@@ -9,7 +9,8 @@ const student = {
 };
 student.makeMovie("Din rat");
 // document.getElementById("name");
-const url = `http://google.com`;
-fetch(url)
-  .then((res) => res.json())
-  .then((data) => console.log(data));
+// const url = `http://google.com`;
+// fetch(url)
+//   .then((res) => res.json())
+//   .then((data) => console.log(data));
+alert("abc");
